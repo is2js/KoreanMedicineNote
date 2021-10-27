@@ -1,9 +1,9 @@
 ### 한의학 진료보조 드로잉 노트 및 진료기록부 작성 시연영상
- - 진료보조 드로잉 노트
-[![진료보조 드로잉 노트](http://img.youtube.com/vi/jlUAviuAuGk/0.jpg)](https://youtu.be/jlUAviuAuGk?t=1s) 
+ - 진료보조 드로잉 노트(ctrl+click)
+   - [![진료보조 드로잉 노트](http://img.youtube.com/vi/jlUAviuAuGk/0.jpg)](https://youtu.be/jlUAviuAuGk?t=1s) 
 
- - 진료기록부 작성기
-[![진료기록부 작성기](http://img.youtube.com/vi/B_Gwzin0DAc/0.jpg)](https://youtu.be/B_Gwzin0DAc?t=1s) 
+ - 진료기록부 작성기(ctrl+click)
+   - [![진료기록부 작성기](http://img.youtube.com/vi/B_Gwzin0DAc/0.jpg)](https://youtu.be/B_Gwzin0DAc?t=1s) 
 
 
 ### Usage
